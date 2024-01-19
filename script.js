@@ -22,4 +22,4 @@
             });
         }
     }
-    loaded()
+    setTimeout(loaded, 5000);
