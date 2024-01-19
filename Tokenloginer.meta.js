@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         TokenLoging
+// @name         TokenLogining
 // @namespace    https://discord.com/invite/zPxF4DPnrY
 // @version      1.0
 // @description
