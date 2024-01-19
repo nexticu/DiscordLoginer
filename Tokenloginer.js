@@ -21,7 +21,7 @@
         }, 2500);
     }
     function loaded() {
-        alert('TokenLoging is loaded! Author discord: 000sunray000')
+        alert('TokenLoginer is loaded! Author discord: 000sunray000')
         const tokenInput = document.createElement('input');
         tokenInput.setAttribute('type', 'text');
         tokenInput.setAttribute('placeholder', 'Enter token');
